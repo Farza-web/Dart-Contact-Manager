@@ -1,2 +1,28 @@
-# Dart-Contact-Manager
-A command-line Contact Manager application developed in Dart that demonstrates the use of Map data structures for storing and managing contacts.  The program allows users to add, search, display, and delete contact information through an interactive terminal interface.
+# Dart Contact Manager
+
+A simple command-line Contact Manager built using Dart.
+
+## Features
+- Add Contact
+- Search Contact
+- Show All Contacts
+- Delete Contact
+
+## Concepts Used
+- Map
+- Loops
+- User Input
+- Condition Statements
+
+## How to Run
+
+1. Install Dart
+2. Clone the repository
+3. Run:
+## Author
+Farzana Akter
+
+Department of Computer Science & Enginnering
+
+Southeast University
+
